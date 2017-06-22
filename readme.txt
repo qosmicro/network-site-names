@@ -3,8 +3,8 @@ Contributors: josemanuelsh
 Donate link: https://qosmicro.com/plugins/donations/
 Tags: network, sites, menu, admin bar
 Requires at least: 4.6.0
-Tested up to: 4.6.1
-Stable tag: 1.0.0
+Tested up to: 4.8
+Stable tag: 1.0.1
 License: GPLv3 or later
 License URI: http://www.gnu.org/licenses/gpl.html
 
@@ -67,5 +67,8 @@ No, Sites without a network name will use the blog title in the admin bar.
 
 = 1.0.0 =
 * Initial Release
+
+= 1.0.1 =
+* Added POT File
 
 == Upgrade Notice ==
